@@ -1,0 +1,53 @@
+
+Structural Equation Model of sem_global 
+
+Call:
+  MPD ~ EnvPC1 + EnvPC2
+  PC1 ~ EnvPC1 + EnvPC2 + MPD
+  PC2 ~ EnvPC1 + EnvPC2 + MPD
+  TaxMPD_SES ~ EnvPC1 + PC1 + PC2 + MPD
+  PC1 ~~ PC2
+
+    AIC
+ 3413.133
+
+---
+Tests of directed separation:
+
+             Independ.Claim Test.Type  DF Crit.Value P.Value 
+  TaxMPD_SES ~ EnvPC2 + ...      coef 652     1.5917  0.1119 
+
+--
+Global goodness-of-fit:
+
+Chi-Squared = 2.521 with P-value = 0.112 and on 1 degrees of freedom
+Fisher's C = 4.379 with P-value = 0.112 and on 2 degrees of freedom
+
+---
+Coefficients:
+
+    Response Predictor Estimate Std.Error  DF Crit.Value P.Value Std.Estimate    
+         MPD    EnvPC1   0.2977    0.0684 652     4.3510  0.0000       0.2977 ***
+         MPD    EnvPC2  -0.5841    0.0439 652   -13.3013  0.0000      -0.5841 ***
+         PC1    EnvPC1   0.2933    0.0384 652     7.6411  0.0000       0.2933 ***
+         PC1    EnvPC2  -0.2618     0.026 652   -10.0657  0.0000      -0.2618 ***
+         PC1       MPD   0.0233    0.0195 652     1.1996  0.2307       0.0233    
+         PC2    EnvPC1   0.3351    0.0541 652     6.1951  0.0000       0.3351 ***
+         PC2    EnvPC2   0.0671    0.0364 652     1.8456  0.0654       0.0671    
+         PC2       MPD  -0.1693     0.028 652    -6.0392  0.0000      -0.1693 ***
+  TaxMPD_SES    EnvPC1   0.2180    0.0781 652     2.7929  0.0054       0.2180  **
+  TaxMPD_SES       PC1  -0.1802    0.0724 652    -2.4877  0.0131      -0.1802   *
+  TaxMPD_SES       PC2   0.4430    0.0575 652     7.7068  0.0000       0.4430 ***
+  TaxMPD_SES       MPD   0.1941    0.0385 652     5.0414  0.0000       0.1941 ***
+       ~~PC1     ~~PC2  -0.2553         - 652    -6.7260  0.0000      -0.2553 ***
+
+  Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05
+
+---
+Individual R-squared:
+
+    Response method R.squared
+         MPD   none      0.39
+         PC1   none      0.26
+         PC2   none      0.21
+  TaxMPD_SES   none      0.26

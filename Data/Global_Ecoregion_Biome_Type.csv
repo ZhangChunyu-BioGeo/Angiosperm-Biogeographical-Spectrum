@@ -1,0 +1,812 @@
+ECO_ID,BiomeType
+10101,Trop/Subtrop Forests
+10102,Trop/Subtrop Forests
+10103,Trop/Subtrop Forests
+10104,Trop/Subtrop Forests
+10105,Trop/Subtrop Forests
+10106,Trop/Subtrop Forests
+10107,Trop/Subtrop Forests
+10108,Trop/Subtrop Forests
+10109,Trop/Subtrop Forests
+10110,Trop/Subtrop Forests
+10111,Trop/Subtrop Forests
+10112,Trop/Subtrop Forests
+10113,Trop/Subtrop Forests
+10115,Trop/Subtrop Forests
+10116,Trop/Subtrop Forests
+10117,Trop/Subtrop Forests
+10118,Trop/Subtrop Forests
+10119,Trop/Subtrop Forests
+10120,Trop/Subtrop Forests
+10121,Trop/Subtrop Forests
+10122,Trop/Subtrop Forests
+10123,Trop/Subtrop Forests
+10124,Trop/Subtrop Forests
+10125,Trop/Subtrop Forests
+10126,Trop/Subtrop Forests
+10127,Trop/Subtrop Forests
+10128,Trop/Subtrop Forests
+10201,Trop/Subtrop Forests
+10202,Trop/Subtrop Forests
+10203,Trop/Subtrop Forests
+10204,Trop/Subtrop Forests
+10401,Temp Forests
+10402,Temp Forests
+10403,Temp Forests
+10404,Temp Forests
+10405,Temp Forests
+10406,Temp Forests
+10407,Temp Forests
+10408,Temp Forests
+10409,Temp Forests
+10410,Temp Forests
+10411,Temp Forests
+10412,Temp Forests
+10413,Temp Forests
+10414,Temp Forests
+10701,Grasslands
+10702,Grasslands
+10703,Grasslands
+10704,Grasslands
+10705,Grasslands
+10706,Grasslands
+10707,Grasslands
+10708,Grasslands
+10709,Grasslands
+10801,Grasslands
+10802,Grasslands
+10803,Grasslands
+11001,Grasslands
+11002,Grasslands
+11003,Grasslands
+11101,Tundra
+11201,Mediterranean Scrub
+11202,Mediterranean Scrub
+11203,Mediterranean Scrub
+11204,Mediterranean Scrub
+11205,Mediterranean Scrub
+11206,Mediterranean Scrub
+11207,Mediterranean Scrub
+11208,Mediterranean Scrub
+11209,Mediterranean Scrub
+11210,Mediterranean Scrub
+11301,Deserts & Drylands
+11302,Deserts & Drylands
+11303,Deserts & Drylands
+11304,Deserts & Drylands
+11305,Deserts & Drylands
+11306,Deserts & Drylands
+11307,Deserts & Drylands
+11308,Deserts & Drylands
+11309,Deserts & Drylands
+11310,Deserts & Drylands
+11401,Trop/Subtrop Forests
+21103,Tundra
+21104,Tundra
+30101,Trop/Subtrop Forests
+30102,Trop/Subtrop Forests
+30103,Trop/Subtrop Forests
+30104,Trop/Subtrop Forests
+30105,Trop/Subtrop Forests
+30106,Trop/Subtrop Forests
+30107,Trop/Subtrop Forests
+30108,Trop/Subtrop Forests
+30109,Trop/Subtrop Forests
+30110,Trop/Subtrop Forests
+30111,Trop/Subtrop Forests
+30112,Trop/Subtrop Forests
+30113,Trop/Subtrop Forests
+30114,Trop/Subtrop Forests
+30115,Trop/Subtrop Forests
+30116,Trop/Subtrop Forests
+30117,Trop/Subtrop Forests
+30118,Trop/Subtrop Forests
+30119,Trop/Subtrop Forests
+30120,Trop/Subtrop Forests
+30121,Trop/Subtrop Forests
+30122,Trop/Subtrop Forests
+30123,Trop/Subtrop Forests
+30124,Trop/Subtrop Forests
+30125,Trop/Subtrop Forests
+30126,Trop/Subtrop Forests
+30127,Trop/Subtrop Forests
+30128,Trop/Subtrop Forests
+30129,Trop/Subtrop Forests
+30130,Trop/Subtrop Forests
+30201,Trop/Subtrop Forests
+30202,Trop/Subtrop Forests
+30203,Trop/Subtrop Forests
+30701,Grasslands
+30702,Grasslands
+30703,Grasslands
+30704,Grasslands
+30705,Grasslands
+30706,Grasslands
+30707,Grasslands
+30708,Grasslands
+30709,Grasslands
+30710,Grasslands
+30711,Grasslands
+30712,Grasslands
+30713,Grasslands
+30714,Grasslands
+30715,Grasslands
+30716,Grasslands
+30717,Grasslands
+30718,Grasslands
+30719,Grasslands
+30721,Grasslands
+30722,Grasslands
+30723,Grasslands
+30724,Grasslands
+30725,Grasslands
+30726,Grasslands
+30801,Grasslands
+30802,Grasslands
+30803,Grasslands
+30902,Grasslands
+30903,Grasslands
+30904,Grasslands
+30905,Grasslands
+30906,Grasslands
+30907,Grasslands
+30908,Grasslands
+31001,Grasslands
+31002,Grasslands
+31003,Grasslands
+31004,Grasslands
+31005,Grasslands
+31006,Grasslands
+31007,Grasslands
+31008,Grasslands
+31009,Grasslands
+31010,Grasslands
+31011,Grasslands
+31012,Grasslands
+31013,Grasslands
+31014,Grasslands
+31015,Grasslands
+31201,Mediterranean Scrub
+31202,Mediterranean Scrub
+31203,Mediterranean Scrub
+31301,Deserts & Drylands
+31302,Deserts & Drylands
+31303,Deserts & Drylands
+31304,Deserts & Drylands
+31305,Deserts & Drylands
+31306,Deserts & Drylands
+31307,Deserts & Drylands
+31308,Deserts & Drylands
+31309,Deserts & Drylands
+31310,Deserts & Drylands
+31311,Deserts & Drylands
+31312,Deserts & Drylands
+31313,Deserts & Drylands
+31314,Deserts & Drylands
+31315,Deserts & Drylands
+31316,Deserts & Drylands
+31318,Deserts & Drylands
+31319,Deserts & Drylands
+31320,Deserts & Drylands
+31321,Deserts & Drylands
+31322,Deserts & Drylands
+31401,Trop/Subtrop Forests
+31402,Trop/Subtrop Forests
+31403,Trop/Subtrop Forests
+31404,Trop/Subtrop Forests
+31405,Trop/Subtrop Forests
+40101,Trop/Subtrop Forests
+40102,Trop/Subtrop Forests
+40103,Trop/Subtrop Forests
+40104,Trop/Subtrop Forests
+40105,Trop/Subtrop Forests
+40106,Trop/Subtrop Forests
+40107,Trop/Subtrop Forests
+40108,Trop/Subtrop Forests
+40109,Trop/Subtrop Forests
+40111,Trop/Subtrop Forests
+40112,Trop/Subtrop Forests
+40113,Trop/Subtrop Forests
+40114,Trop/Subtrop Forests
+40115,Trop/Subtrop Forests
+40116,Trop/Subtrop Forests
+40117,Trop/Subtrop Forests
+40118,Trop/Subtrop Forests
+40119,Trop/Subtrop Forests
+40120,Trop/Subtrop Forests
+40121,Trop/Subtrop Forests
+40122,Trop/Subtrop Forests
+40123,Trop/Subtrop Forests
+40124,Trop/Subtrop Forests
+40125,Trop/Subtrop Forests
+40126,Trop/Subtrop Forests
+40127,Trop/Subtrop Forests
+40128,Trop/Subtrop Forests
+40129,Trop/Subtrop Forests
+40130,Trop/Subtrop Forests
+40131,Trop/Subtrop Forests
+40132,Trop/Subtrop Forests
+40133,Trop/Subtrop Forests
+40134,Trop/Subtrop Forests
+40135,Trop/Subtrop Forests
+40136,Trop/Subtrop Forests
+40137,Trop/Subtrop Forests
+40138,Trop/Subtrop Forests
+40139,Trop/Subtrop Forests
+40140,Trop/Subtrop Forests
+40141,Trop/Subtrop Forests
+40142,Trop/Subtrop Forests
+40143,Trop/Subtrop Forests
+40144,Trop/Subtrop Forests
+40145,Trop/Subtrop Forests
+40146,Trop/Subtrop Forests
+40147,Trop/Subtrop Forests
+40149,Trop/Subtrop Forests
+40150,Trop/Subtrop Forests
+40151,Trop/Subtrop Forests
+40152,Trop/Subtrop Forests
+40153,Trop/Subtrop Forests
+40154,Trop/Subtrop Forests
+40155,Trop/Subtrop Forests
+40156,Trop/Subtrop Forests
+40157,Trop/Subtrop Forests
+40158,Trop/Subtrop Forests
+40159,Trop/Subtrop Forests
+40160,Trop/Subtrop Forests
+40161,Trop/Subtrop Forests
+40162,Trop/Subtrop Forests
+40163,Trop/Subtrop Forests
+40164,Trop/Subtrop Forests
+40165,Trop/Subtrop Forests
+40166,Trop/Subtrop Forests
+40167,Trop/Subtrop Forests
+40168,Trop/Subtrop Forests
+40169,Trop/Subtrop Forests
+40170,Trop/Subtrop Forests
+40171,Trop/Subtrop Forests
+40172,Trop/Subtrop Forests
+40201,Trop/Subtrop Forests
+40202,Trop/Subtrop Forests
+40203,Trop/Subtrop Forests
+40204,Trop/Subtrop Forests
+40205,Trop/Subtrop Forests
+40206,Trop/Subtrop Forests
+40207,Trop/Subtrop Forests
+40208,Trop/Subtrop Forests
+40209,Trop/Subtrop Forests
+40210,Trop/Subtrop Forests
+40211,Trop/Subtrop Forests
+40212,Trop/Subtrop Forests
+40301,Trop/Subtrop Forests
+40302,Trop/Subtrop Forests
+40303,Trop/Subtrop Forests
+40304,Trop/Subtrop Forests
+40401,Temp Forests
+40402,Temp Forests
+40403,Temp Forests
+40501,Temp Forests
+40502,Temp Forests
+40701,Grasslands
+40901,Grasslands
+41001,Grasslands
+41301,Deserts & Drylands
+41302,Deserts & Drylands
+41303,Deserts & Drylands
+41304,Deserts & Drylands
+41401,Trop/Subtrop Forests
+41402,Trop/Subtrop Forests
+41403,Trop/Subtrop Forests
+41404,Trop/Subtrop Forests
+41405,Trop/Subtrop Forests
+41406,Trop/Subtrop Forests
+50201,Trop/Subtrop Forests
+50301,Trop/Subtrop Forests
+50302,Trop/Subtrop Forests
+50303,Trop/Subtrop Forests
+50401,Temp Forests
+50402,Temp Forests
+50403,Temp Forests
+50404,Temp Forests
+50405,Temp Forests
+50406,Temp Forests
+50407,Temp Forests
+50408,Temp Forests
+50409,Temp Forests
+50410,Temp Forests
+50411,Temp Forests
+50412,Temp Forests
+50413,Temp Forests
+50414,Temp Forests
+50415,Temp Forests
+50416,Temp Forests
+50417,Temp Forests
+50501,Temp Forests
+50502,Temp Forests
+50503,Temp Forests
+50504,Temp Forests
+50505,Temp Forests
+50506,Temp Forests
+50507,Temp Forests
+50508,Temp Forests
+50509,Temp Forests
+50510,Temp Forests
+50511,Temp Forests
+50512,Temp Forests
+50513,Temp Forests
+50514,Temp Forests
+50515,Temp Forests
+50516,Temp Forests
+50517,Temp Forests
+50518,Temp Forests
+50519,Temp Forests
+50520,Temp Forests
+50521,Temp Forests
+50522,Temp Forests
+50523,Temp Forests
+50524,Temp Forests
+50525,Temp Forests
+50526,Temp Forests
+50527,Temp Forests
+50528,Temp Forests
+50529,Temp Forests
+50530,Temp Forests
+50601,Boreal Taiga
+50602,Boreal Taiga
+50603,Boreal Taiga
+50604,Boreal Taiga
+50605,Boreal Taiga
+50606,Boreal Taiga
+50607,Boreal Taiga
+50608,Boreal Taiga
+50609,Boreal Taiga
+50610,Boreal Taiga
+50611,Boreal Taiga
+50612,Boreal Taiga
+50613,Boreal Taiga
+50614,Boreal Taiga
+50615,Boreal Taiga
+50616,Boreal Taiga
+50617,Boreal Taiga
+50701,Grasslands
+50801,Grasslands
+50802,Grasslands
+50803,Grasslands
+50804,Grasslands
+50805,Grasslands
+50806,Grasslands
+50807,Grasslands
+50808,Grasslands
+50809,Grasslands
+50810,Grasslands
+50811,Grasslands
+50812,Grasslands
+50813,Grasslands
+50814,Grasslands
+50815,Grasslands
+51101,Tundra
+51102,Tundra
+51103,Tundra
+51104,Tundra
+51105,Tundra
+51106,Tundra
+51107,Tundra
+51108,Tundra
+51109,Tundra
+51110,Tundra
+51111,Tundra
+51112,Tundra
+51113,Tundra
+51114,Tundra
+51115,Tundra
+51116,Tundra
+51117,Tundra
+51118,Tundra
+51201,Mediterranean Scrub
+51202,Mediterranean Scrub
+51203,Mediterranean Scrub
+51301,Deserts & Drylands
+51302,Deserts & Drylands
+51303,Deserts & Drylands
+51304,Deserts & Drylands
+51305,Deserts & Drylands
+51306,Deserts & Drylands
+51307,Deserts & Drylands
+51308,Deserts & Drylands
+51309,Deserts & Drylands
+51310,Deserts & Drylands
+51311,Deserts & Drylands
+51312,Deserts & Drylands
+51313,Deserts & Drylands
+60101,Trop/Subtrop Forests
+60102,Trop/Subtrop Forests
+60103,Trop/Subtrop Forests
+60104,Trop/Subtrop Forests
+60105,Trop/Subtrop Forests
+60106,Trop/Subtrop Forests
+60107,Trop/Subtrop Forests
+60108,Trop/Subtrop Forests
+60109,Trop/Subtrop Forests
+60110,Trop/Subtrop Forests
+60111,Trop/Subtrop Forests
+60112,Trop/Subtrop Forests
+60113,Trop/Subtrop Forests
+60114,Trop/Subtrop Forests
+60115,Trop/Subtrop Forests
+60116,Trop/Subtrop Forests
+60117,Trop/Subtrop Forests
+60118,Trop/Subtrop Forests
+60119,Trop/Subtrop Forests
+60120,Trop/Subtrop Forests
+60121,Trop/Subtrop Forests
+60122,Trop/Subtrop Forests
+60123,Trop/Subtrop Forests
+60124,Trop/Subtrop Forests
+60125,Trop/Subtrop Forests
+60126,Trop/Subtrop Forests
+60127,Trop/Subtrop Forests
+60128,Trop/Subtrop Forests
+60129,Trop/Subtrop Forests
+60130,Trop/Subtrop Forests
+60131,Trop/Subtrop Forests
+60132,Trop/Subtrop Forests
+60133,Trop/Subtrop Forests
+60134,Trop/Subtrop Forests
+60135,Trop/Subtrop Forests
+60136,Trop/Subtrop Forests
+60137,Trop/Subtrop Forests
+60138,Trop/Subtrop Forests
+60139,Trop/Subtrop Forests
+60140,Trop/Subtrop Forests
+60141,Trop/Subtrop Forests
+60142,Trop/Subtrop Forests
+60143,Trop/Subtrop Forests
+60144,Trop/Subtrop Forests
+60145,Trop/Subtrop Forests
+60146,Trop/Subtrop Forests
+60147,Trop/Subtrop Forests
+60148,Trop/Subtrop Forests
+60149,Trop/Subtrop Forests
+60150,Trop/Subtrop Forests
+60151,Trop/Subtrop Forests
+60152,Trop/Subtrop Forests
+60153,Trop/Subtrop Forests
+60154,Trop/Subtrop Forests
+60155,Trop/Subtrop Forests
+60156,Trop/Subtrop Forests
+60157,Trop/Subtrop Forests
+60158,Trop/Subtrop Forests
+60159,Trop/Subtrop Forests
+60160,Trop/Subtrop Forests
+60161,Trop/Subtrop Forests
+60162,Trop/Subtrop Forests
+60163,Trop/Subtrop Forests
+60164,Trop/Subtrop Forests
+60165,Trop/Subtrop Forests
+60166,Trop/Subtrop Forests
+60167,Trop/Subtrop Forests
+60168,Trop/Subtrop Forests
+60169,Trop/Subtrop Forests
+60170,Trop/Subtrop Forests
+60171,Trop/Subtrop Forests
+60173,Trop/Subtrop Forests
+60174,Trop/Subtrop Forests
+60175,Trop/Subtrop Forests
+60176,Trop/Subtrop Forests
+60177,Trop/Subtrop Forests
+60178,Trop/Subtrop Forests
+60179,Trop/Subtrop Forests
+60180,Trop/Subtrop Forests
+60181,Trop/Subtrop Forests
+60182,Trop/Subtrop Forests
+60201,Trop/Subtrop Forests
+60202,Trop/Subtrop Forests
+60204,Trop/Subtrop Forests
+60205,Trop/Subtrop Forests
+60206,Trop/Subtrop Forests
+60207,Trop/Subtrop Forests
+60209,Trop/Subtrop Forests
+60210,Grasslands
+60211,Trop/Subtrop Forests
+60212,Trop/Subtrop Forests
+60213,Trop/Subtrop Forests
+60214,Trop/Subtrop Forests
+60215,Trop/Subtrop Forests
+60216,Trop/Subtrop Forests
+60217,Trop/Subtrop Forests
+60218,Trop/Subtrop Forests
+60219,Trop/Subtrop Forests
+60220,Trop/Subtrop Forests
+60221,Trop/Subtrop Forests
+60222,Trop/Subtrop Forests
+60223,Trop/Subtrop Forests
+60224,Trop/Subtrop Forests
+60225,Trop/Subtrop Forests
+60226,Trop/Subtrop Forests
+60227,Trop/Subtrop Forests
+60228,Trop/Subtrop Forests
+60229,Trop/Subtrop Forests
+60230,Trop/Subtrop Forests
+60232,Trop/Subtrop Forests
+60233,Trop/Subtrop Forests
+60235,Trop/Subtrop Forests
+60301,Trop/Subtrop Forests
+60302,Trop/Subtrop Forests
+60303,Trop/Subtrop Forests
+60304,Trop/Subtrop Forests
+60305,Trop/Subtrop Forests
+60306,Trop/Subtrop Forests
+60307,Trop/Subtrop Forests
+60308,Trop/Subtrop Forests
+60309,Trop/Subtrop Forests
+60310,Trop/Subtrop Forests
+60401,Temp Forests
+60402,Temp Forests
+60404,Temp Forests
+60702,Grasslands
+60703,Grasslands
+60704,Grasslands
+60707,Grasslands
+60708,Grasslands
+60709,Grasslands
+60710,Grasslands
+60801,Grasslands
+60802,Grasslands
+60803,Grasslands
+60805,Grasslands
+60902,Grasslands
+60903,Grasslands
+60904,Grasslands
+60905,Grasslands
+60906,Grasslands
+60907,Grasslands
+60908,Grasslands
+60909,Grasslands
+61001,Grasslands
+61002,Grasslands
+61003,Grasslands
+61004,Grasslands
+61005,Grasslands
+61006,Grasslands
+61007,Grasslands
+61008,Grasslands
+61010,Grasslands
+61201,Mediterranean Scrub
+61301,Deserts & Drylands
+61303,Deserts & Drylands
+61304,Deserts & Drylands
+61305,Deserts & Drylands
+61306,Deserts & Drylands
+61307,Deserts & Drylands
+61308,Deserts & Drylands
+61309,Deserts & Drylands
+61312,Deserts & Drylands
+61313,Deserts & Drylands
+61314,Deserts & Drylands
+61315,Deserts & Drylands
+61316,Deserts & Drylands
+61401,Trop/Subtrop Forests
+61402,Trop/Subtrop Forests
+61403,Trop/Subtrop Forests
+61404,Trop/Subtrop Forests
+61405,Trop/Subtrop Forests
+61406,Trop/Subtrop Forests
+61407,Trop/Subtrop Forests
+70101,Trop/Subtrop Forests
+70103,Trop/Subtrop Forests
+70104,Trop/Subtrop Forests
+70105,Trop/Subtrop Forests
+70106,Trop/Subtrop Forests
+70107,Trop/Subtrop Forests
+70108,Trop/Subtrop Forests
+70109,Trop/Subtrop Forests
+70110,Trop/Subtrop Forests
+70111,Trop/Subtrop Forests
+70112,Trop/Subtrop Forests
+70113,Trop/Subtrop Forests
+70114,Trop/Subtrop Forests
+70115,Trop/Subtrop Forests
+70116,Trop/Subtrop Forests
+70117,Trop/Subtrop Forests
+70201,Trop/Subtrop Forests
+70202,Trop/Subtrop Forests
+70203,Trop/Subtrop Forests
+70204,Trop/Subtrop Forests
+70701,Grasslands
+70702,Grasslands
+70703,Grasslands
+80101,Trop/Subtrop Forests
+80102,Trop/Subtrop Forests
+80401,Temp Forests
+80402,Temp Forests
+80403,Temp Forests
+80404,Temp Forests
+80405,Temp Forests
+80406,Temp Forests
+80407,Temp Forests
+80408,Temp Forests
+80409,Temp Forests
+80410,Temp Forests
+80411,Temp Forests
+80412,Temp Forests
+80413,Temp Forests
+80414,Temp Forests
+80415,Temp Forests
+80416,Temp Forests
+80417,Temp Forests
+80418,Temp Forests
+80419,Temp Forests
+80420,Temp Forests
+80421,Temp Forests
+80422,Temp Forests
+80423,Temp Forests
+80424,Temp Forests
+80425,Temp Forests
+80426,Temp Forests
+80427,Temp Forests
+80428,Temp Forests
+80429,Temp Forests
+80430,Temp Forests
+80431,Temp Forests
+80432,Temp Forests
+80433,Temp Forests
+80434,Temp Forests
+80435,Temp Forests
+80436,Temp Forests
+80437,Temp Forests
+80438,Temp Forests
+80439,Temp Forests
+80440,Temp Forests
+80441,Temp Forests
+80442,Temp Forests
+80443,Temp Forests
+80444,Temp Forests
+80445,Temp Forests
+80446,Temp Forests
+80501,Temp Forests
+80502,Temp Forests
+80503,Temp Forests
+80504,Temp Forests
+80505,Temp Forests
+80506,Temp Forests
+80507,Temp Forests
+80508,Temp Forests
+80509,Temp Forests
+80510,Temp Forests
+80511,Temp Forests
+80512,Temp Forests
+80513,Temp Forests
+80514,Temp Forests
+80515,Temp Forests
+80516,Temp Forests
+80517,Temp Forests
+80518,Temp Forests
+80519,Temp Forests
+80520,Temp Forests
+80521,Temp Forests
+80601,Boreal Taiga
+80602,Boreal Taiga
+80603,Boreal Taiga
+80604,Boreal Taiga
+80605,Boreal Taiga
+80606,Boreal Taiga
+80607,Boreal Taiga
+80608,Boreal Taiga
+80609,Boreal Taiga
+80610,Boreal Taiga
+80611,Boreal Taiga
+80801,Grasslands
+80802,Grasslands
+80803,Grasslands
+80804,Grasslands
+80805,Grasslands
+80806,Grasslands
+80807,Grasslands
+80808,Grasslands
+80809,Grasslands
+80810,Grasslands
+80811,Grasslands
+80812,Grasslands
+80813,Grasslands
+80814,Grasslands
+80815,Grasslands
+80816,Grasslands
+80817,Grasslands
+80818,Grasslands
+80901,Grasslands
+80903,Grasslands
+80904,Grasslands
+80905,Grasslands
+80906,Grasslands
+80907,Grasslands
+80908,Grasslands
+81001,Grasslands
+81002,Grasslands
+81003,Grasslands
+81004,Grasslands
+81005,Grasslands
+81006,Grasslands
+81007,Grasslands
+81008,Grasslands
+81009,Grasslands
+81010,Grasslands
+81011,Grasslands
+81012,Grasslands
+81013,Grasslands
+81014,Grasslands
+81015,Grasslands
+81016,Grasslands
+81017,Grasslands
+81018,Grasslands
+81019,Grasslands
+81020,Grasslands
+81021,Grasslands
+81022,Grasslands
+81101,Tundra
+81102,Tundra
+81103,Tundra
+81104,Tundra
+81105,Tundra
+81106,Tundra
+81107,Tundra
+81108,Tundra
+81109,Tundra
+81110,Tundra
+81111,Tundra
+81112,Tundra
+81113,Tundra
+81114,Tundra
+81201,Mediterranean Scrub
+81202,Mediterranean Scrub
+81203,Mediterranean Scrub
+81204,Mediterranean Scrub
+81205,Mediterranean Scrub
+81206,Mediterranean Scrub
+81207,Mediterranean Scrub
+81208,Mediterranean Scrub
+81209,Mediterranean Scrub
+81210,Mediterranean Scrub
+81211,Mediterranean Scrub
+81212,Mediterranean Scrub
+81213,Mediterranean Scrub
+81214,Mediterranean Scrub
+81215,Mediterranean Scrub
+81216,Mediterranean Scrub
+81217,Mediterranean Scrub
+81218,Mediterranean Scrub
+81219,Mediterranean Scrub
+81220,Mediterranean Scrub
+81221,Mediterranean Scrub
+81222,Mediterranean Scrub
+81301,Deserts & Drylands
+81302,Deserts & Drylands
+81303,Deserts & Drylands
+81304,Deserts & Drylands
+81305,Deserts & Drylands
+81306,Deserts & Drylands
+81307,Deserts & Drylands
+81308,Deserts & Drylands
+81309,Deserts & Drylands
+81310,Deserts & Drylands
+81311,Deserts & Drylands
+81312,Deserts & Drylands
+81313,Deserts & Drylands
+81314,Deserts & Drylands
+81315,Deserts & Drylands
+81316,Deserts & Drylands
+81317,Deserts & Drylands
+81318,Deserts & Drylands
+81319,Deserts & Drylands
+81320,Deserts & Drylands
+81321,Deserts & Drylands
+81322,Deserts & Drylands
+81323,Deserts & Drylands
+81324,Deserts & Drylands
+81325,Deserts & Drylands
+81326,Deserts & Drylands
+81327,Deserts & Drylands
+81328,Deserts & Drylands
+81329,Deserts & Drylands
+81330,Deserts & Drylands
+81331,Deserts & Drylands
+81332,Deserts & Drylands
+81333,Deserts & Drylands

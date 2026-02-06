@@ -1,0 +1,15 @@
+
+Fit
+      -lnL      AIC     AICc Rate.cat  ntax
+ -6163.604 12329.21 12329.21        1 18611
+
+Legend
+  1   2 
+"1" "2" 
+
+Rates
+           (1,R1)     (2,R1)
+(1,R1)         NA 0.01102157
+(2,R1) 0.01102157         NA
+
+Arrived at a reliable solution 
