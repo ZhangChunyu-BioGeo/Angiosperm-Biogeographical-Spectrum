@@ -15,9 +15,7 @@ This project is covered under the MIT License, which allows free use, modificati
 Please note that some data in this repository (e.g., species distribution data from GBIF) may be subject to the licensing terms of their original providers.
 
 ## Repository Link
-The repository is available on GitHub: https://github.com/ZhangChunyu-BioGeo/Angiosperm-Biogeographical-Spectrum. A static version of this repository is also available on Zenodo: [link to be provided prior to publication.]
-
-Upon publication, the repository will be made publicly available on GitHub.
+The repository is available on GitHub: https://github.com/ZhangChunyu-BioGeo/Angiosperm-Biogeographical-Spectrum. A static version of this repository is also available on Zenodo: https://doi.org/10.5281/zenodo.20595813.
 
 ## System Requirements
 - **Operating Systems**: Tested on Windows 10/11, macOS.
